@@ -7,6 +7,7 @@ A Template for quickly setting up JavaScript projects that utilize Node.js packa
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Tech Stack](#tech-stack)
+- [Roadmap](#roadmap)
 
 ## Features
 - Switches between "restaurant" pages.
